@@ -1,85 +1,194 @@
 <!-- ===== HERO ===== -->
-<h1 align="center">Hi, I'm Kyle 👋</h1>
+<h1 align="center">Kyle Henderson</h1>
 <p align="center">
-Product Owner • Analyst • Builder of useful systems • Sports + AI nerd
+I build structured intelligence systems that turn real-world data into usable decisions.
+</p>
+
+<p align="center">
+AI Product • Systems Design • Applied Analytics
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
 <a href="https://x.com/YOUR_HANDLE">X</a> •
-<a href="https://your-site.com">Website</a> •
+<a href="https://substack.com/@YOUR_SUBSTACK">Substack</a> •
 <a href="mailto:you@email.com">Email</a>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Focus-AI%20Products%20%26%20Automation-000000" />
-<img src="https://img.shields.io/badge/Building-Deep%20Seats-000000" />
-<img src="https://img.shields.io/badge/Building-Automated%20Closet%20App-000000" />
-</p>
+---
+
+## Profile
+
+AI-native product operator focused on:
+
+- Designing intelligence layers on top of raw data  
+- Converting ambiguity into structured system architecture  
+- Building automated reporting + retrieval workflows  
+- Shipping fast validation loops with AI in the core stack  
+- Turning signal extraction into product leverage  
+
+I operate at the intersection of product strategy, analytics, and applied AI systems.
 
 ---
 
-## 👨‍💻 About Me
-- 🧠 I build **practical AI/product systems** that reduce friction and improve decision-making
-- 📊 Strong in **analytics, product ops, workflows, and turning messy problems into roadmaps**
-- 🏀 I'm creating **Deep Seats** (sports info + personal sports history)
-- 👔 I'm also building a **fully automated closet app** (photos → catalog → outfits → trips)
+# Selected Systems & Builds
 
 ---
 
-## 🔥 What I'm working on
-- **AI Product Systems:** agents, automation, RAG, tool workflows
-- **Apps:** sports history + stats tracking, personal life OS ideas
-- **Content:** writing tools, POV/grammar helpers, recommendations engines
+## NBA Pulse — Automated Sports Intelligence
+
+🔗 https://nbapulse-ekel3rru.manus.space/
+
+An automated NBA reporting engine that:
+
+- Ingests statistical leader data  
+- Structures summaries into decision-ready outputs  
+- Extracts signal from league-wide performance noise  
+- Produces repeatable, structured reporting  
+
+**Core Themes**
+- Automated intelligence pipelines  
+- Structured output formatting  
+- Statistical signal surfacing  
+- Daily systemized content generation  
 
 ---
 
-## 🧰 Toolbelt
-**Product:** PRDs • roadmaps • metrics • experiments • stakeholder alignment  
-**Data:** SQL • dashboards • funnel analysis • cohorting • instrumentation  
-**AI:** prompt design • eval thinking • retrieval workflows • agent patterns
+## Deep Seats — Structured Sports Memory Engine
 
-<p>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Product-000000?style=for-the-badge" />
-</p>
+A personal sports intelligence system that:
 
----
+- Structures game history + identity data  
+- Models fan experience as retrievable memory  
+- Combines narrative + analytics  
+- Builds long-term structured identity datasets  
 
-## 📌 Pinned Projects
-- **Deep Seats** — sports info + personal sports history
-- **Closet App** — catalog + wear frequency + outfit generator
+**Core Themes**
+- Data modeling  
+- Retrieval design  
+- Context layering  
+- Memory architecture  
 
 ---
 
-## ✍️ Writing / Notes
-- **(Post/Doc Title 1)** — what it's about
-- **(Post/Doc Title 2)** — what it's about
-- **(Post/Doc Title 3)** — what it's about
+## Modern Sports Intelligence Demo
+
+🔗 https://github.com/hondoentertainment/ModernSportsIntelligenceDemo
+
+Prototype exploring modern sports data architecture.
+
+- Intelligence dashboards  
+- Decision-support frameworks  
+- Analytical modeling patterns  
+- Narrative-enhanced analytics  
+
+**Core Themes**
+- Data-to-intelligence transformation  
+- Modeling + abstraction layers  
+- Insight packaging  
 
 ---
 
-## 🤝 Let's connect
-If you're building in **AI + product + systems**, I'm always up for swapping notes.
+## Spine Scanner — Applied Vision AI
 
-<p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge" />
-</a>
-<a href="https://x.com/YOUR_HANDLE">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge" />
-</a>
-<a href="mailto:you@email.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge" />
-</a>
-</p>
+🔗 https://spine-scanner.vercel.app/
+
+AI-powered posture and alignment analyzer.
+
+- Image-based inference  
+- Pattern detection  
+- Structured health feedback  
+- User-facing AI translation layer  
+
+**Core Themes**
+- Vision pipelines  
+- Applied inference systems  
+- AI UX design  
+- Lightweight deployment architecture  
 
 ---
 
-<!-- ===== STATS (optional) ===== -->
-## 📈 GitHub Stats
+## Experimental AI Interfaces (Rapid Iteration Builds)
+
+🔗 https://lovable.dev/projects/4390021d-5304-41ad-909f-abe603a85603  
+🔗 https://lovable.dev/projects/c6e34b19-2f9e-44cb-b43d-3e833cf44ae6  
+
+Rapid AI prototypes focused on:
+
+- Workflow orchestration  
+- Interface abstraction for AI systems  
+- Fast validation loops  
+- Shipping velocity  
+
+These builds demonstrate system testing at speed.
+
+---
+
+## Schafer Family Cookbook — Structured Knowledge System
+
+🔗 https://github.com/hondoentertainment/SchaferFamilyCookbook
+
+Digital preservation project modeling narrative + instruction as structured data.
+
+**Core Themes**
+- Knowledge organization  
+- Long-term data durability  
+- Structured memory systems  
+
+---
+
+# Public AI System Design Artifact
+
+🔗 https://chatgpt.com/share/69a0f0d3-2e54-800a-a912-93d9c2c37242  
+
+Demonstrates:
+
+- Structured problem decomposition  
+- AI-assisted architecture design  
+- Workflow reasoning transparency  
+- System-first thinking  
+
+---
+
+# Operating Areas
+
+- Retrieval & RAG system design  
+- AI agent orchestration  
+- Intelligence layer abstraction  
+- Statistical signal extraction  
+- Vision model application  
+- Automated reporting systems  
+- Evaluation frameworks  
+- Structured output design  
+
+---
+
+# Tooling
+
+**Product**
+PRDs • System architecture docs • Roadmapping • Experimentation design • Metrics modeling  
+
+**Data**
+SQL • Dashboarding • Cohorting • Funnel analysis • Instrumentation  
+
+**AI**
+Prompt system design • Retrieval workflows • Agent patterns • Evaluation thinking • Vision pipelines  
+
+---
+
+# What I Bring to AI-Native Teams
+
+- Structured system thinking, not feature thinking  
+- Comfort operating in ambiguity  
+- Ability to translate AI capabilities into durable product loops  
+- Strong analytics foundation  
+- Speed in prototyping + iteration  
+- Signal-first product mindset  
+
+---
+
+# GitHub Stats
+
 <p>
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hondoentertainment&show_icons=true&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hondoentertainment&layout=compact&hide_border=true" />
