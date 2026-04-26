@@ -1,10 +1,11 @@
 <h1 align="center">Kyle Henderson</h1>
+
 <p align="center">
-I build AI-native products that turn raw data into structured intelligence people can actually use.
+<b>AI Systems Builder • Product Operator • Intelligence Layer Architect</b>
 </p>
 
 <p align="center">
-AI Product • Applied Analytics • Systems Design
+I turn raw data into decision-ready intelligence — and ship systems that prove it.
 </p>
 
 <p align="center">
@@ -16,202 +17,210 @@ AI Product • Applied Analytics • Systems Design
 
 ---
 
-## Profile
+## ⚡ Profile
 
-AI-native product operator focused on building **working systems, not just ideas**.
+I build **AI-native systems that actually run in the real world**.
 
-My work sits at the intersection of:
-- product strategy  
-- analytics  
-- applied AI systems  
+Not demos.
+Not theory.
+**Deployed intelligence systems.**
+
+My work lives at the intersection of:
+
+* **AI systems design**
+* **product strategy**
+* **applied analytics**
 
 I specialize in:
-- turning ambiguous problems into structured systems  
-- building intelligence layers on top of raw data  
-- creating automated reporting and retrieval workflows  
-- rapidly prototyping and shipping AI-native products  
 
-Most of my work is **live, deployed, and iterated in real environments**.
+* turning ambiguity into structured, executable systems
+* building intelligence layers on top of messy data
+* designing automated reporting + decision pipelines
+* shipping fast and iterating in production environments
 
----
-
-## Proof
-
-- Built and deployed multiple live AI systems across sports, vision, and knowledge domains  
-- HoopsIntel: live automated reporting system generating structured daily outputs  
-- Rapid prototyping across Lovable, Vercel, and agent-based systems  
-- Continuous focus on shipping real systems, not static repos  
+> Most people stop at analysis.
+> I focus on **usable intelligence**.
 
 ---
 
-## Signature Strength
+## 🚀 Proof of Work
 
-I specialize in building the layer between:
-- raw data  
-- AI capability  
-- real human decisions  
-
-Most systems stop at analysis.  
-I focus on making intelligence usable.
+* Built and deployed **multiple live AI systems** across sports, vision, and knowledge domains
+* Created **HoopsIntel** → a live automated sports intelligence engine
+* Prototyped and shipped systems across **Lovable, Vercel, and agent frameworks**
+* Continuous output of **real systems, not static repos**
 
 ---
 
-## Selected Systems & Builds
+## 🧠 Signature Edge
 
-### HoopsIntel — Sports Intelligence Platform  
+I build the layer most teams skip:
+
+**Raw Data → AI Capability → Human Decision**
+
+That middle layer — where insight becomes usable — is where I operate.
+
+---
+
+## 🏗 Selected Systems
+
+### HoopsIntel — Sports Intelligence Engine
+
 🔗 https://hoopsintel.net
 
-A live sports intelligence platform building a new layer between raw data and how basketball insight is consumed.
+A live system redefining how basketball data becomes usable insight.
 
-**System**
-- ingests and structures NBA statistical data  
-- generates automated, repeatable intelligence reports  
-- surfaces trends, leaders, and performance shifts  
-- standardizes how basketball insight is delivered  
+**What it does**
 
-**Impact**
-Transforms fragmented stats into a consistent, decision-ready intelligence product.
+* ingests and structures NBA data streams
+* generates automated, repeatable intelligence reports
+* identifies trends, leaders, and performance shifts
+* standardizes insight delivery into decision-ready formats
 
-**Core System Design**
-Automated reporting • Signal extraction • Structured output • Sports intelligence systems  
+**Why it matters**
+Turns fragmented stats into a **consistent intelligence product**
 
-**Direction**
-- expanding into player evaluation and team-level intelligence  
-- exploring personalized sports intelligence systems  
-- building fan-facing decision and discovery tools  
+**System Design**
+`Signal Extraction • Automated Reporting • Structured Outputs • Intelligence Layer`
 
----
+**Next Phase**
 
-### Deep Seats — Personal Sports Intelligence Layer
-
-A system exploring how sports fandom can be modeled as structured memory.
-
-**System**
-- captures game history and fan identity data  
-- builds a retrievable personal sports memory layer  
-- combines narrative and analytics into a unified system  
-
-**Impact**
-Moves sports from passive consumption → structured personal intelligence.
+* player evaluation systems
+* team-level intelligence models
+* personalized sports insight engines
 
 ---
 
-### Modern Sports Intelligence Demo  
+### Deep Seats — Personal Sports Memory System
+
+A new category: **sports fandom as structured intelligence**
+
+**What it does**
+
+* captures personal sports history + identity
+* builds a retrievable memory layer
+* merges narrative + analytics
+
+**Why it matters**
+Shifts sports from passive consumption → **personal intelligence systems**
+
+---
+
+### Modern Sports Intelligence Demo
+
 🔗 https://github.com/hondoentertainment/ModernSportsIntelligenceDemo
 
-Prototype exploring how sports data becomes usable decision systems.
-
-**System**
-- transforms dashboards into intelligence layers  
-- models analytical patterns for decision support  
-- structures insight delivery  
-
-**Impact**
-Demonstrates how data becomes productized intelligence.
-
----
-
-### Spine Scanner — Vision AI Application  
-🔗 https://spine-scanner.vercel.app/
-
-Computer vision system for posture and alignment analysis.
-
-**System**
-- image-based inference  
-- pattern detection  
-- structured feedback layer  
-
-**Impact**
-Bridges model output → practical human insight.
-
----
-
-### Experimental AI Systems (Rapid Builds)
-
-🔗 https://lovable.dev/projects/4390021d-5304-41ad-909f-abe603a85603  
-🔗 https://lovable.dev/projects/c6e34b19-2f9e-44cb-b43d-3e833cf44ae6  
-
-A continuous stream of deployed prototypes exploring how AI changes product workflows.
+Prototype showing how dashboards evolve into intelligence systems.
 
 **Focus**
-- replacing manual workflows with AI systems  
-- designing interfaces around model capabilities  
-- testing agent-driven product patterns  
 
-**Output**
-Dozens of live experiments across tools like Lovable, Vercel, and agent frameworks.
+* decision-support modeling
+* insight structuring
+* productized analytics
 
 ---
 
-### Schafer Family Cookbook — Structured Knowledge System  
-🔗 https://github.com/hondoentertainment/SchaferFamilyCookbook
+### Spine Scanner — Vision AI System
 
-A structured data system for preserving narrative and instruction.
+🔗 https://spine-scanner.vercel.app/
 
-**System**
-- converts unstructured family knowledge into durable data  
-- models narrative as structured, retrievable information  
+Computer vision system translating posture into actionable feedback.
+
+**Stack**
+
+* image-based inference
+* pattern recognition
+* structured output layer
 
 **Impact**
-Applies structured memory concepts beyond traditional productivity tools.
+Bridges model output → **human-usable insight**
 
 ---
 
-## What I’m Building Toward
+### Experimental AI Systems (Live Prototypes)
 
-- personalized intelligence systems (sports, content, decision-making)  
-- AI systems that evolve with user context over time  
-- interfaces that replace dashboards with structured insight  
-- lightweight agent systems that automate recurring thinking workflows  
+🔗 https://lovable.dev/projects/4390021d-5304-41ad-909f-abe603a85603
+🔗 https://lovable.dev/projects/c6e34b19-2f9e-44cb-b43d-3e833cf44ae6
 
----
+Ongoing stream of real, deployed experiments.
 
-## How I Work
+**Focus**
 
-- systems first, features second  
-- live outputs over theoretical ideas  
-- AI as infrastructure, not just tooling  
-- fast iteration and validation loops  
-- signal extraction → usable decisions  
+* replacing workflows with AI systems
+* designing around model-native interfaces
+* testing agent-driven product patterns
 
----
-
-## Operating Areas
-
-- AI-native product design  
-- Retrieval / RAG systems  
-- Agent orchestration  
-- Automated reporting systems  
-- Vision AI applications  
-- Structured memory systems  
-- Intelligence layer design  
+**Output**
+Dozens of live builds across emerging AI stacks
 
 ---
 
-## Tooling
+### Schafer Family Cookbook — Knowledge System
 
-**Product**  
-PRDs • system architecture • roadmap design • experimentation • metrics  
+🔗 https://github.com/hondoentertainment/SchaferFamilyCookbook
 
-**Data**  
-SQL • dashboards • cohorting • funnel analysis • instrumentation  
+Structured system for preserving narrative as data.
 
-**AI**  
-Prompt systems • retrieval workflows • agent systems • evaluation • vision pipelines  
+**Concept**
+Unstructured knowledge → durable, queryable systems
 
 ---
 
-## What I Bring
+## 🔭 What I’m Building Toward
 
-- ability to turn ambiguity into structured systems  
-- strong product + analytics foundation  
-- speed in prototyping and iteration  
-- practical applied AI experience  
-- focus on building things people actually use  
+* **Personalized intelligence systems** (sports, content, decision-making)
+* **Context-aware AI systems** that evolve with users
+* **Interfaces that replace dashboards with insight**
+* **Lightweight agent systems** automating recurring thinking
 
 ---
 
-## GitHub Stats
+## ⚙️ How I Operate
+
+* Systems > features
+* Live output > ideas
+* AI as infrastructure, not a feature
+* Speed + iteration > perfection
+* Signal → structure → decision
+
+---
+
+## 🧩 Core Domains
+
+* AI-native product design
+* Retrieval / RAG systems
+* Agent orchestration
+* Automated reporting systems
+* Vision AI
+* Structured memory systems
+* Intelligence layer design
+
+---
+
+## 🛠 Tooling
+
+**Product**
+PRDs • system architecture • roadmap design • experimentation • metrics
+
+**Data**
+SQL • analytics • cohorting • instrumentation • funnels
+
+**AI**
+Prompt systems • retrieval pipelines • agents • evaluation • vision systems
+
+---
+
+## 🧠 What I Bring
+
+* Ability to turn chaos into systems
+* Product + analytics depth
+* High-speed prototyping and shipping
+* Applied AI execution (not theory)
+* Relentless focus on usefulness
+
+---
+
+## 📊 GitHub Stats
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hondoentertainment&show_icons=true&hide_border=true" />
@@ -224,4 +233,8 @@ Prompt systems • retrieval workflows • agent systems • evaluation • visi
 
 ---
 
-I’m interested in building AI systems that make information more usable, not just more available.
+<p align="center">
+<b>I build systems that make intelligence usable.</b><br>
+Not more data. Not more dashboards.<br>
+<b>Better decisions.</b>
+</p>
