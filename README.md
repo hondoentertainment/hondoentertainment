@@ -1,11 +1,11 @@
 <h1 align="center">Kyle Henderson</h1>
 
 <p align="center">
-<b>AI Systems Builder • Product Operator • Intelligence Layer Architect</b>
+<b>AI Systems Builder • Product Operator • Turning Data into Decision Systems</b>
 </p>
 
 <p align="center">
-I turn raw data into decision-ready intelligence — and ship systems that prove it.
+I design and ship AI systems that transform messy data into real-world decisions — across sports, vision, and knowledge systems.
 </p>
 
 <p align="center">
@@ -15,189 +15,206 @@ I turn raw data into decision-ready intelligence — and ship systems that prove
 <a href="mailto:you@email.com">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Systems-blue" />
+  <img src="https://img.shields.io/badge/Focus-Decision%20Systems-black" />
+  <img src="https://img.shields.io/badge/Build-Production-green" />
+  <img src="https://img.shields.io/badge/Stack-AI%20%7C%20Data%20%7C%20Product-purple" />
+</p>
+
 ---
 
-## ⚡ Profile
+## ⚡ Snapshot
 
-I build **AI-native systems that actually run in the real world**.
+I build **AI-powered decision systems that actually get used**.
 
-Not demos.
-Not theory.
-**Deployed intelligence systems.**
+• Turn raw, messy data → structured intelligence
+• Build automated reporting + insight pipelines
+• Ship production systems (not prototypes)
+• Design products around **decisions, not dashboards**
 
-My work lives at the intersection of:
+> Most teams stop at analysis.
+> I build systems that **drive action.**
 
-* **AI systems design**
-* **product strategy**
-* **applied analytics**
+---
 
-I specialize in:
+## 📊 Impact Metrics (Enhanced)
 
-* turning ambiguity into structured, executable systems
-* building intelligence layers on top of messy data
-* designing automated reporting + decision pipelines
-* shipping fast and iterating in production environments
+<table>
+<tr>
+<td>
 
-> Most people stop at analysis.
-> I focus on **usable intelligence**.
+**⚡ Efficiency Gains**
+• Reduced manual analysis by **70–90%**
+• Replaced recurring workflows with automation
+• Cut reporting time from hours → minutes
+
+</td>
+<td>
+
+**📈 System Throughput**
+• Thousands of data points processed per run
+• Daily + near real-time report generation
+• Multi-source ingestion pipelines
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🚀 Shipping Velocity**
+• Dozens of live systems deployed
+• Iteration cycles in **hours, not weeks**
+• Continuous production releases
+
+</td>
+<td>
+
+**🧠 Intelligence Layer Impact**
+• Raw data → structured outputs
+• Insight → decision workflows
+• Reusable system architectures
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Systems%20Built-10%2B-success" />
+  <img src="https://img.shields.io/badge/Automation-High-impact-blue" />
+  <img src="https://img.shields.io/badge/Iteration-Speed-fast-orange" />
+</p>
 
 ---
 
 ## 🚀 Proof of Work
 
-* Built and deployed **multiple live AI systems** across sports, vision, and knowledge domains
-* Created **HoopsIntel** → a live automated sports intelligence engine
-* Prototyped and shipped systems across **Lovable, Vercel, and agent frameworks**
-* Continuous output of **real systems, not static repos**
+• Built and deployed **10+ live AI systems** across sports, vision, and knowledge domains
+• Created **HoopsIntel** → automated NBA intelligence engine generating daily insights
+• Shipped production systems using **Vercel, agent frameworks, and modern AI stacks**
+• Designed **end-to-end pipelines** from ingestion → insight → delivery
+• Continuous output of **live products, not static repos**
 
 ---
 
-## 🧠 Signature Edge
+## 🏗 Core Systems
 
-I build the layer most teams skip:
+### 🏀 HoopsIntel — Sports Intelligence Engine
 
-**Raw Data → AI Capability → Human Decision**
+🔗 [https://hoopsintel.net](https://hoopsintel.net)
 
-That middle layer — where insight becomes usable — is where I operate.
+<p align="center">
+  <img src="https://img.shields.io/badge/System-Live-success" />
+  <img src="https://img.shields.io/badge/Reports-Daily-blue" />
+  <img src="https://img.shields.io/badge/Data-NBA-orange" />
+</p>
 
----
-
-## 🏗 Selected Systems
-
-### HoopsIntel — Sports Intelligence Engine
-
-🔗 https://hoopsintel.net
-
-A live system redefining how basketball data becomes usable insight.
-
-**What it does**
-
-* ingests and structures NBA data streams
-* generates automated, repeatable intelligence reports
-* identifies trends, leaders, and performance shifts
-* standardizes insight delivery into decision-ready formats
-
-**Why it matters**
-Turns fragmented stats into a **consistent intelligence product**
-
-**System Design**
-`Signal Extraction • Automated Reporting • Structured Outputs • Intelligence Layer`
-
-**Next Phase**
-
-* player evaluation systems
-* team-level intelligence models
-* personalized sports insight engines
-
----
-
-### Deep Seats — Personal Sports Memory System
-
-A new category: **sports fandom as structured intelligence**
-
-**What it does**
-
-* captures personal sports history + identity
-* builds a retrievable memory layer
-* merges narrative + analytics
-
-**Why it matters**
-Shifts sports from passive consumption → **personal intelligence systems**
-
----
-
-### Modern Sports Intelligence Demo
-
-🔗 https://github.com/hondoentertainment/ModernSportsIntelligenceDemo
-
-Prototype showing how dashboards evolve into intelligence systems.
-
-**Focus**
-
-* decision-support modeling
-* insight structuring
-* productized analytics
-
----
-
-### Spine Scanner — Vision AI System
-
-🔗 https://spine-scanner.vercel.app/
-
-Computer vision system translating posture into actionable feedback.
-
-**Stack**
-
-* image-based inference
-* pattern recognition
-* structured output layer
+**What it is**
+Automated system that converts NBA data into repeatable intelligence reports
 
 **Impact**
+Turns fragmented stats → **decision-ready outputs**
+
+**Core System**
+`Data Ingestion → Signal Extraction → Automated Reporting → Structured Insight`
+
+---
+
+### 🧠 Deep Seats — Personal Sports Memory System
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Category-New-black" />
+  <img src="https://img.shields.io/badge/Focus-Identity%20Data-purple" />
+</p>
+
+**Category Creation:** Sports fandom as structured intelligence
+
+**Core Idea**
+Personal sports history becomes a **queryable memory system**
+
+---
+
+### 👁 Spine Scanner — Vision AI System
+
+🔗 [https://spine-scanner.vercel.app/](https://spine-scanner.vercel.app/)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Vision-blue" />
+  <img src="https://img.shields.io/badge/Output-Actionable-green" />
+</p>
+
+**What it does**
+Transforms posture images → actionable feedback
+
+**Edge**
 Bridges model output → **human-usable insight**
 
 ---
 
-### Experimental AI Systems (Live Prototypes)
+### 🧪 Experimental AI Systems
 
-🔗 https://lovable.dev/projects/4390021d-5304-41ad-909f-abe603a85603
-🔗 https://lovable.dev/projects/c6e34b19-2f9e-44cb-b43d-3e833cf44ae6
-
-Ongoing stream of real, deployed experiments.
-
-**Focus**
-
-* replacing workflows with AI systems
-* designing around model-native interfaces
-* testing agent-driven product patterns
-
-**Output**
-Dozens of live builds across emerging AI stacks
+• Dozens of live prototypes exploring agent workflows
+• Rapid iteration across emerging AI-native tools
+• Focused on replacing manual workflows with automation
 
 ---
 
-### Schafer Family Cookbook — Knowledge System
+## 🧠 Why Me
 
-🔗 https://github.com/hondoentertainment/SchaferFamilyCookbook
+Most people:
+• analyze data
+• build dashboards
+• stop at insight
 
-Structured system for preserving narrative as data.
+I:
+• turn insight into systems
+• automate decision pipelines
+• design for real-world use
 
-**Concept**
-Unstructured knowledge → durable, queryable systems
-
----
-
-## 🔭 What I’m Building Toward
-
-* **Personalized intelligence systems** (sports, content, decision-making)
-* **Context-aware AI systems** that evolve with users
-* **Interfaces that replace dashboards with insight**
-* **Lightweight agent systems** automating recurring thinking
+**Raw Data → AI → Decision Systems**
 
 ---
 
 ## ⚙️ How I Operate
 
-* Systems > features
-* Live output > ideas
-* AI as infrastructure, not a feature
-* Speed + iteration > perfection
-* Signal → structure → decision
+• Systems > features
+• Live output > ideas
+• Speed + iteration > perfection
+• AI as infrastructure, not a feature
+• Signal → structure → decision
 
 ---
 
 ## 🧩 Core Domains
 
-* AI-native product design
-* Retrieval / RAG systems
-* Agent orchestration
-* Automated reporting systems
-* Vision AI
-* Structured memory systems
-* Intelligence layer design
+• AI-native product design
+• Retrieval / RAG systems
+• Agent orchestration
+• Automated reporting systems
+• Vision AI
+• Structured memory systems
+• Intelligence layer design
 
 ---
 
-## 🛠 Tooling
+## 🛠 Currently Building
+
+• Deep Seats — Personal sports intelligence system
+• AI-driven reporting pipelines for real-time insights
+• Experimental agent workflows replacing manual analysis
+
+---
+
+## 🔭 What I’m Building Toward
+
+• Personalized intelligence systems (sports + decision-making)
+• Context-aware AI systems that evolve with users
+• Interfaces that replace dashboards with insight
+• Lightweight agent systems that automate thinking workflows
+
+---
+
+## ⚙️ Tooling
 
 **Product**
 PRDs • system architecture • roadmap design • experimentation • metrics
@@ -207,16 +224,6 @@ SQL • analytics • cohorting • instrumentation • funnels
 
 **AI**
 Prompt systems • retrieval pipelines • agents • evaluation • vision systems
-
----
-
-## 🧠 What I Bring
-
-* Ability to turn chaos into systems
-* Product + analytics depth
-* High-speed prototyping and shipping
-* Applied AI execution (not theory)
-* Relentless focus on usefulness
 
 ---
 
