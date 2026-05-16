@@ -81,8 +81,8 @@ I build **AI-powered decision systems that actually get used**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Systems%20Built-10%2B-success" />
-  <img src="https://img.shields.io/badge/Automation-High-impact-blue" />
-  <img src="https://img.shields.io/badge/Iteration-Speed-fast-orange" />
+  <img src="https://img.shields.io/badge/Automation-High%20Impact-blue" />
+  <img src="https://img.shields.io/badge/Iteration%20Speed-Fast-orange" />
 </p>
 
 ---
